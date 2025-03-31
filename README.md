@@ -1,1 +1,1 @@
-Este arquivo apaga xmls da pasta servidor 10.0.0.225 que tem data limite até 31/12/2023. 
+Este arquivo apaga xmls da pasta servidor 10.0.0.225 que tem data limite até 31/12/2023. Tinha como objetivo minimizar o tamanho do espaço do servidor do meu trabalho. Ele apresenta tela de execução. 
